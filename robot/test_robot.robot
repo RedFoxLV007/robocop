@@ -5,5 +5,3 @@ Library     Selenium2Library
 	Open Browser    https://www.ya.ru  googlechrome
    	Maximize Browser Window
 	Close Browser
-
-fhmyhm
